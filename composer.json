@@ -1,5 +1,5 @@
 {
-    "name": "zunky44/larave-repository-pattern",
+    "name": "zunky44/laravel-repository-pattern",
     "description": "Repository for Laravel 5.*",
     "keywords": ["laravel", "repository"],
     "license": "MIT",
