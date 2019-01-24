@@ -24,7 +24,7 @@ Instead, you may of course manually update your require block and run `composer 
 ```json
 {
     "require": {
-        "Jagat/repository": "~2.0.0"
+        "Jagat/repository": "~1.0.0"
     }
 }
 ```
@@ -348,7 +348,6 @@ $criteria[] = Criteria::create()
     ->orWhere('title', '=', 'title');
 
 $this->repository->get($criteria);
-// $this->repository->paginate($criteria);
 ```
 
 ##### With
@@ -363,7 +362,7 @@ $criteria = Criteria::create()
     });
 
 $this->repository->get($criteria);
-// $this->repository->paginate($criteria);
+
 ```
 
 #### Join
@@ -378,7 +377,7 @@ $criteria = Criteria::create()
     });
 
 $this->repository->get($criteria);
-// $this->repository->paginate($criteria);
+
 ```
 
 #### Expression
@@ -391,7 +390,7 @@ $criteria = Criteria::create()
     ->where('created_at', '<=', Criteria::expr('NOW()'));
 
 $this->repository->get($criteria);
-// $this->repository->paginate($criteria);
+
 ```
 
 #### Custom Criteria
@@ -411,5 +410,3 @@ class CustomCriteria extends Criteria
 $this->repository->get((new CustomCriteria(1))->where('autor', 'autor'));
 ```
 
-## ToDo
-- Cache
