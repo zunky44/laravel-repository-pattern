@@ -3,13 +3,6 @@
 [![StyleCI](https://styleci.io/repos/60332194/shield?style=flat)](https://styleci.io/repos/60332194)
 [![Build Status](https://travis-ci.org/Jagat/laravel-repository.svg)](https://travis-ci.org/Jagat/laravel-repository)
 [![Total Downloads](https://poser.pugx.org/Jagat/repository/d/total.svg)](https://packagist.org/packages/Jagat/repository)
-[![Latest Stable Version](https://poser.pugx.org/Jagat/repository/v/stable.svg)](https://packagist.org/packages/Jagat/repository)
-[![Latest Unstable Version](https://poser.pugx.org/Jagat/repository/v/unstable.svg)](https://packagist.org/packages/Jagat/repository)
-[![License](https://poser.pugx.org/Jagat/repository/license.svg)](https://packagist.org/packages/Jagat/repository)
-[![Monthly Downloads](https://poser.pugx.org/Jagat/repository/d/monthly)](https://packagist.org/packages/Jagat/repository)
-[![Daily Downloads](https://poser.pugx.org/Jagat/repository/d/daily)](https://packagist.org/packages/Jagat/repository)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Jagat/laravel-repository/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Jagat/laravel-repository/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/Jagat/laravel-repository/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Jagat/laravel-repository/?branch=master)
 
 ## Install
 
