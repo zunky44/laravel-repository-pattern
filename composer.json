@@ -28,12 +28,13 @@
             "src/polyfill.php"
         ],
         "psr-4": {
-            "Jagat\\Repository\\": "src/"
+            "zunky44\\laravel-repository-pattern\\": "src/"
+
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Jagat\\Repository\\Tests\\": "tests/"
+            "zunky44\\laravel-repository-pattern\\Tests\\": "tests/"
         }
     },
     "config": {

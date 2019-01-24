@@ -17,7 +17,7 @@ Instead, you may of course manually update your require block and run `composer 
 ```json
 {
     "require": {
-        "Jagat/repository": "~1.0.0"
+        "zunky44/larave-repository-pattern": "~1.0.0"
     }
 }
 ```
